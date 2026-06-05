@@ -1,0 +1,12 @@
+bin/
+obj/
+
+**/bin/
+**/obj/
+
+node_modules/
+
+CarsApi/bin/
+CarsApi/obj/
+
+CarsApi/cars-client/node_modules/

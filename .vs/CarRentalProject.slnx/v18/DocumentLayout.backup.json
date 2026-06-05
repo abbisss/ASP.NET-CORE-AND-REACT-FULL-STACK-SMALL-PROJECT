@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abbass Barq\\Desktop\\Advanced Web\\ASP.NET-CORE\\CarRentalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE2B27E-FDCE-26F0-464C-06D9E9F4E421}|CarsApi\\CarsApi.csproj|c:\\users\\abbass barq\\desktop\\advanced web\\asp.net-core\\carrentalproject\\carsapi\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE2B27E-FDCE-26F0-464C-06D9E9F4E421}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE2B27E-FDCE-26F0-464C-06D9E9F4E421}|CarsApi\\CarsApi.csproj|c:\\users\\abbass barq\\desktop\\advanced web\\asp.net-core\\carrentalproject\\carsapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE2B27E-FDCE-26F0-464C-06D9E9F4E421}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE2B27E-FDCE-26F0-464C-06D9E9F4E421}|CarsApi\\CarsApi.csproj|c:\\users\\abbass barq\\desktop\\advanced web\\asp.net-core\\carrentalproject\\carsapi\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE2B27E-FDCE-26F0-464C-06D9E9F4E421}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE2B27E-FDCE-26F0-464C-06D9E9F4E421}|CarsApi\\CarsApi.csproj|c:\\users\\abbass barq\\desktop\\advanced web\\asp.net-core\\carrentalproject\\carsapi\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE2B27E-FDCE-26F0-464C-06D9E9F4E421}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE2B27E-FDCE-26F0-464C-06D9E9F4E421}|CarsApi\\CarsApi.csproj|c:\\users\\abbass barq\\desktop\\advanced web\\asp.net-core\\carrentalproject\\carsapi\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE2B27E-FDCE-26F0-464C-06D9E9F4E421}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE2B27E-FDCE-26F0-464C-06D9E9F4E421}|CarsApi\\CarsApi.csproj|c:\\users\\abbass barq\\desktop\\advanced web\\asp.net-core\\carrentalproject\\carsapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE2B27E-FDCE-26F0-464C-06D9E9F4E421}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE2B27E-FDCE-26F0-464C-06D9E9F4E421}|CarsApi\\CarsApi.csproj|c:\\users\\abbass barq\\desktop\\advanced web\\asp.net-core\\carrentalproject\\carsapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE2B27E-FDCE-26F0-464C-06D9E9F4E421}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Abbass Barq\\Desktop\\Advanced Web\\ASP.NET-CORE\\CarRentalProject\\CarsApi\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Abbass Barq\\Desktop\\Advanced Web\\ASP.NET-CORE\\CarRentalProject\\CarsApi\\Models\\Reservation.cs",
+              "RelativeToolTip": "CarsApi\\Models\\Reservation.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:10:38.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\Abbass Barq\\Desktop\\Advanced Web\\ASP.NET-CORE\\CarRentalProject\\CarsApi\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\Abbass Barq\\Desktop\\Advanced Web\\ASP.NET-CORE\\CarRentalProject\\CarsApi\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "CarsApi\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:10:04.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Abbass Barq\\Desktop\\Advanced Web\\ASP.NET-CORE\\CarRentalProject\\CarsApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Abbass Barq\\Desktop\\Advanced Web\\ASP.NET-CORE\\CarRentalProject\\CarsApi\\Models\\User.cs",
+              "RelativeToolTip": "CarsApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:45:58.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\Abbass Barq\\Desktop\\Advanced Web\\ASP.NET-CORE\\CarRentalProject\\CarsApi\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\Abbass Barq\\Desktop\\Advanced Web\\ASP.NET-CORE\\CarRentalProject\\CarsApi\\Controllers\\CarController.cs",
+              "RelativeToolTip": "CarsApi\\Controllers\\CarController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAkwEYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:32:04.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Abbass Barq\\Desktop\\Advanced Web\\ASP.NET-CORE\\CarRentalProject\\CarsApi\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Abbass Barq\\Desktop\\Advanced Web\\ASP.NET-CORE\\CarRentalProject\\CarsApi\\Models\\Car.cs",
+              "RelativeToolTip": "CarsApi\\Models\\Car.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T12:47:36.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Abbass Barq\\Desktop\\Advanced Web\\ASP.NET-CORE\\CarRentalProject\\CarsApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Abbass Barq\\Desktop\\Advanced Web\\ASP.NET-CORE\\CarRentalProject\\CarsApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CarsApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T14:07:59.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Abbass Barq\\Desktop\\Advanced Web\\ASP.NET-CORE\\CarRentalProject\\CarsApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Abbass Barq\\Desktop\\Advanced Web\\ASP.NET-CORE\\CarRentalProject\\CarsApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CarsApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwJ4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T14:01:15.008Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
